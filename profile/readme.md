@@ -1,9 +1,9 @@
 # Hey, we are the Coding Friends 👋 
 
-we –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt), [Gabriel](https://github.com/greimers) -  are three Berlin-based software developers with a passion for beautiful iOS and macOS apps.
+We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt), [Gabriel](https://github.com/greimers) -  are three Berlin-based software developers with a passion for beautiful iOS and macOS apps.
 
 
-### Checkout our projects and website!
+### Check out our projects and website!
 
 🚀 [Loqbooq - decision log for your team](https://loqbooq.app)
 
