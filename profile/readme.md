@@ -13,4 +13,4 @@ We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt
 
 🐙 [Tincta - open source text editor](https://codingfriends.github.io/Tincta)
 
-🧁 [Macarons - Chat roulette for Slack](https://macarons-roulette.app)
+🧁 [Macarons - chat roulette for Slack](https://macarons-roulette.app)
