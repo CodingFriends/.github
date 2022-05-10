@@ -5,10 +5,12 @@ We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt
 
 ### Check out our projects and website!
 
+👩‍💻 [Coding Friends UG – software studio for Mac development and iOS apps](https://www.coding-friends.com/)
+
 🚀 [Loqbooq - decision log for your team](https://loqbooq.app)
 
 🤯 [Wokabulary - learn and organise foreign languages efficiently](https://wokabulary.com)
 
 🐙 [Tincta - open source text editor](https://codingfriends.github.io/Tincta)
 
-👩‍💻 [Coding Friends UG – agency for Mac development and iOS apps](https://www.coding-friends.com/)
+🧁 [Macarons - Chat roulette for Slack](https://macarons-roulette.app)
