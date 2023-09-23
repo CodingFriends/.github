@@ -1,9 +1,10 @@
-# Hey, we are the Coding Friends 👋 
+**Hey, we are the Coding Friends 👋**
 
 We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt), [Gabriel](https://github.com/greimers) -  are three Berlin-based software developers with a passion for beautiful iOS and macOS apps.
 
+---
 
-### Check out our projects and website!
+**Check out our projects and website!**
 
 👩‍💻 [Coding Friends UG – Software studio for Mac development and iOS apps](https://www.coding-friends.com/)
 
