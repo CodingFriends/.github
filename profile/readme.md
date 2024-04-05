@@ -6,7 +6,7 @@ We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt
 
 **Check out our projects and website!**
 
-👩‍💻 [Coding Friends UG – Software studio for Mac development and iOS apps](https://www.coding-friends.com/)
+👩‍💻 [Coding Friends GmbH – Software studio for Mac development and iOS apps](https://www.coding-friends.com/)
 
 🚀 [Loqbooq - Decision log for your team](https://loqbooq.app)
 
