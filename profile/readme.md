@@ -10,7 +10,7 @@ We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt
 
 🤯 [Wokabulary - Collect and practice your personal foreign language vocabulary](https://wokabulary.com)
 
-🤯 [Synpose - AI research with integrity. On your Mac.](https://www.synpose.com)
+🔎 [Synpose - AI research with integrity. On your Mac.](https://www.synpose.com)
 
 
 **Archived Projects**
