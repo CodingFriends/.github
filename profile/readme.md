@@ -8,9 +8,14 @@ We –  [Anna](https://github.com/annaneo), [Julius](https://github.com/jpeinelt
 
 👩‍💻 [Coding Friends GmbH – Software studio for Mac development and iOS apps](https://www.coding-friends.com/)
 
-🚀 [Loqbooq - Decision log for your team](https://loqbooq.app)
-
 🤯 [Wokabulary - Collect and practice your personal foreign language vocabulary](https://wokabulary.com)
+
+🤯 [Synpose - AI research with integrity. On your Mac.](https://www.synpose.com)
+
+
+**Archived Projects**
+
+🚀 [Loqbooq - Decision log for your team](https://loqbooq.app)
 
 🐙 [Tincta - Open source text editor](https://codingfriends.github.io/Tincta)
 
